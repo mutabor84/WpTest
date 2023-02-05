@@ -1,0 +1,18 @@
+WPTEST site
+
+BD
+bd name: wptest_bd
+bd login: wptest_bd
+bd pass: wptest_bd-12345678
+
+
+
+adminka
+
+login: admin_test
+pass: admin_test-12345678
+
+
+
+
+
